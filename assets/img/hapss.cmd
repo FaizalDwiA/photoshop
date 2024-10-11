@@ -1,0 +1,15 @@
+del 2\*.webp
+del 3\*.webp
+del 4\*.webp
+del 5\*.webp
+del 6\*.webp
+del 7\*.webp
+del 8\*.webp
+del 9\*.webp
+del 10\*.webp
+del 11\*.webp
+del 12\*.webp
+del 13\*.webp
+del 14\*.webp
+del 15\*.webp
+del 16\*.webp
